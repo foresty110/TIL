@@ -11,4 +11,5 @@ Spark Structured Streaming
 공식 가이드에서 Micro-batch는 약 100ms 수준까지의 지연 시간을 목표로 한다고 설명, 
 100ms마다 끊어서 처리하다 보면, 파이프라인 전체를 거치면서 지연 시간이 계속해서 늘어난다. -> 시세를 놓친다. 
 
+ <img src="https://kafka.apache.org/31/images/streams-architecture-tasks.jpg" width="300px">
 # 현재 구조 설명 
